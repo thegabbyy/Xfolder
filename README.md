@@ -1,1 +1,2 @@
-# XfolderUpdating readme from bash
+# Xfolder
+Updating readme from bash
